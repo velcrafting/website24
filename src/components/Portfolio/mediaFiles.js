@@ -1,0 +1,57 @@
+const mediaFiles = {
+    digital: [
+      { fileName: '/media/digital/abstract.png', displayName: 'Abstract Art', description: 'AI digital abstract art piece' },
+      { fileName: '/media/digital/abstract2.png', displayName: 'Abstract Art 2', description: 'AI digital abstract art piece' },
+      { fileName: '/media/digital/Boopdeusa.png', displayName: 'Boopdeusa', description: 'Graphic illustration of Boopdeusa, a remix of CryptoBoops NFT' },
+      { fileName: '/media/digital/BrideofFrankenTech.png', displayName: 'Bride of FrankenTech', description: 'Digital illustration remix of Eeka, Technoveins mutant ape.' },
+      { fileName: '/media/digital/ChumChristmas.gif', displayName: 'Chum Christmas', description: 'Chilling with my Chums' },
+      { fileName: '/media/digital/CountCodula.png', displayName: 'Count Codula', description: 'Digital illustration of Count Codula - a remix art piece' },
+      { fileName: '/media/digital/DeathScrolling.gif', displayName: 'Death Scrolling', description: 'My interpretation of the anxiety tick to scroll on social media avoiding reality' },
+      { fileName: '/media/digital/IdentityCrisis.PNG', displayName: 'Identity Crisis', description: 'error: 404, me not found' },
+      { fileName: '/media/digital/notes.gif', displayName: 'Take Notes', description: 'Made during a period of heavy note taking.. boy was that a dizzying time' },
+      { fileName: '/media/digital/RobotoHalloweenZen.png', displayName: 'Roboto Halloween Zen', description: 'Robotos Halloween Art Contest entry' },
+      { fileName: '/media/digital/SmileMore.gif', displayName: 'Smile More', description: 'Created in the spirit of being told to smile more...' },
+      { fileName: '/media/digital/Snowday.png', displayName: 'Snowday in Kizuna', description: 'Digital Comic based in the Crimson Odyssey Universe' },
+      { fileName: '/media/digital/tbog.png', displayName: 'The Birth Of Georgie', description: 'Digital art of TBOG' },
+      { fileName: '/media/digital/Zombie.png', displayName: 'Zombie', description: 'Visually based on Stubbs the Zombie mixed with Sabo from One Piece' },
+    ],
+    graphic: [
+      { fileName: '/media/graphic/beans.png', displayName: 'ConsoleKev Beanboozle Sale', description: 'Graphic design of silly beans for a social media post.' },
+      { fileName: '/media/graphic/c1info.gif', displayName: 'Community First Infographic', description: 'Informational graphic' },
+      { fileName: '/media/graphic/CardBack.png', displayName: 'Business Card Back', description: 'Card back design for company Upper Restoration' },
+      { fileName: '/media/graphic/CardFront.png', displayName: 'Business Card Front', description: 'Card front design for company Upper Restoration' },
+      { fileName: '/media/graphic/crimsonlogo.jpg', displayName: 'Crimson Odyssey Logo', description: 'Logo design for Crimson Odyssey' },
+      { fileName: '/media/graphic/dec22chum.png', displayName: 'Chum Chum Holiday Calendar', description: 'Graphic design for Chum Chum NFT project' },
+      { fileName: '/media/graphic/dopo_logo.png', displayName: 'DOPO Logo', description: 'Logo design for DOPO' },
+      { fileName: '/media/graphic/fntourney1.png', displayName: 'ELSN Fortnite Tournament Graphic', description: 'Graphic design for Fortnite Tourney for the Entertainment Livestream Network.' },
+      { fileName: '/media/graphic/leaderboard.png', displayName: 'Community First Game Leaderboard', description: 'Editable Leaderboard graphic used for social media.' },
+      { fileName: '/media/graphic/tokeninfo.png', displayName: 'Token Info', description: 'Graphic design for token information' },
+      { fileName: '/media/graphic/weeklyplanner.png', displayName: 'Chum Chum Editable Planner', description: 'Graphic designed weekly planner for the ChumChum NFT Project' },
+      { fileName: '/media/graphic/welcomeTF.gif', displayName: 'Welcome to Titanforge', description: 'Welcome infographic commissioned for NFT project Titanforge' },
+    ],
+    videos: [
+      { fileName: '/media/videos/COTeaser.mp4', displayName: 'Crimson Odyssey Teaser', description: 'Teaser trailer for release of the pilot Whispers Of The Wind part 1, of the Crimson Odyssey story' },
+      { fileName: '/media/videos/marboracing.mp4', displayName: 'Marbo Racing', description: 'Commissioned video for the Marbo Racing NFT marketing promotion.' },
+    ],
+    physical: [
+      { fileName: '/media/physical/crew.jpg', displayName: 'The Crew', description: 'Physical artworks, hook and loop + clay of the crew' },
+      { fileName: '/media/physical/itchy.jpg', displayName: 'Itchy & Scratchy', description: 'Physical hook and loop artwork of Itchy & scratchy. Unique concept 2.5D in shadowbox.' },
+      // { fileName: '/media/physical/marvin.mov', displayName: 'Marvin', description: 'Video of Marvin' },
+      // { fileName: '/media/physical/sonic.mov', displayName: 'Sonic', description: 'Video of Sonic' },
+    ],
+    websites: [
+      { fileName: '/media/websites/DopoEvents.png', displayName: 'Dopo Events', description: 'Website design for Dopo/Community First' },
+      { fileName: '/media/websites/DopoLanding.png', displayName: 'Dopo Landing', description: 'Landing page for Dopo/Community First' },
+      { fileName: '/media/websites/DopoPortal.png', displayName: 'Dopo Portal', description: 'Portal design for Dopo/Community First' },
+      { fileName: '/media/websites/ELSN.png', displayName: 'Entertainment Livestream Network', description: 'Website design for ELSN game tournament community' },
+      { fileName: '/media/websites/invyteconfirmation.png', displayName: 'Invyte Winter - Confirmation', description: 'Winter themed design for Invyte' },
+      { fileName: '/media/websites/invytewinter.png', displayName: 'Invyte Winter - Main', description: 'Winter themed design for Invyte' },
+      { fileName: '/media/websites/velcraftingsplash.png', displayName: 'Velcrafting Old Site Design 1', description: 'Splash page for Velcrafting' },
+      { fileName: '/media/websites/velcraftingweb2.png', displayName: 'Velcrafting Old Site Design 2', description: 'Second web page for Velcrafting' },
+      { fileName: '/media/websites/velcraftingweb3.png', displayName: 'Velcrafting Old Site Design 3', description: 'Third web page for Velcrafting' },
+      // { fileName: '/media/websites/invteMockup.pdf', displayName: 'Invyte Mockup', description: 'Mockup design for Invyte' },
+    ],
+  };
+  
+  export default mediaFiles;
+  
