@@ -8,9 +8,9 @@ const AboutSection = () => {
       <Fade bottom>
         <Typography variant="h4" gutterBottom>About Me</Typography>
         <Typography variant="body1" sx={{ maxWidth: '750px', margin: 'auto' }}>
-          Skilled IT professional with a strong background in fullstack development, blockchain, and creative design. 
-          An expert in project management and team leadership, with a knack for innovation and solving complex problems. 
-          Combining technical skills and creative thinking to drive project success and team growth.
+        Welcome to my world of art and design! Since 2015, I've been honing my skills in graphic design, video editing, and public-facing graphics, starting with my earliest physical artworks and YouTube thumbnails. My journey began with the tactile art of Velcro (Hook and Loop) making statues, figures, and intricate 2.5D shadowbox frames—each piece a unique creation that sparked my passion, and gave me the artist handle "Velcrafting".
+        As I dove into live streaming and content creation, I crafted custom overlays, emotes, and thumbnails to enhance my channels. This experience led me to freelance work, creating art and design for fellow streamers and content creators. My portfolio expanded as I took on business clients, delivering designs for websites and physical handouts that reached thousands.
+        Minimalism and expressive creativity define my style, often infused with a touch of pastel colors. Explore my portfolio below to see a diverse array of projects and deliverables. Interested in collaborating? Send me a message, and let's create something amazing together!
         </Typography>
       </Fade>
     </Box>

@@ -12,7 +12,7 @@ const Gaming = () => {
     <Box>
       <HeroSection />
       <AboutSection />
-      {/* <StreamingSection /> */}
+      <StreamingSection />
       <ProjectsSection />
       {/* <ExperienceSection /> */}
       <ContactSection />

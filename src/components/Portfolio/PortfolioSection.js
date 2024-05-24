@@ -14,7 +14,7 @@ const PortfolioSection = () => {
   };
 
   return (
-    <Box sx={{ py: 8, px: { xs: 2, sm: 4 }, textAlign: 'center', width: '100%', overflowX: 'hidden' }}>
+    <Box sx={{ py: 1, px: { xs: 2, sm: 4 }, textAlign: 'center', width: '100%', overflowX: 'hidden' }}>
       <Fade bottom>
         <div>
           <Typography variant="h4" gutterBottom>Art Portfolio</Typography>
