@@ -12,7 +12,7 @@ const mediaFiles = {
       { fileName: '/media/digital/RobotoHalloweenZen.png', displayName: 'Roboto Halloween Zen', description: 'Robotos Halloween Art Contest entry' },
       { fileName: '/media/digital/SmileMore.gif', displayName: 'Smile More', description: 'Created in the spirit of being told to smile more...' },
       { fileName: '/media/digital/Snowday.png', displayName: 'Snowday in Kizuna', description: 'Digital Comic based in the Crimson Odyssey Universe' },
-      { fileName: '/media/digital/tbog.png', displayName: 'The Birth Of Georgie', description: 'Digital art of TBOG' },
+      { fileName: '/media/digital/georgie.png', displayName: 'The Birth Of Georgie', description: 'Aliens, bored of invasion, must do something.' },
       { fileName: '/media/digital/Zombie.png', displayName: 'Zombie', description: 'Visually based on Stubbs the Zombie mixed with Sabo from One Piece' },
     ],
     graphic: [
